@@ -3,6 +3,7 @@
 A clean, role-based PHP Admin Dashboard & Content Management System powered by MySQL.
 
 ---
+<img width="1900" height="861" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/d8a716d7-16a9-48f0-b331-edf046c1b120" />
 
 ## Features
 
